@@ -1,0 +1,10 @@
+#div_lista {
+  float: left;
+}
+
+#map {
+  float: right;
+  height: 510px;
+  width: 50%;
+  margin-right: 35px;
+}
