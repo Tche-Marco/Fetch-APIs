@@ -18,6 +18,7 @@ async function apresentarLista() {
     ul.appendChild(li)
   })
 }
+
 async function criarMapa() {
   const mapa = new google.maps.Map(document.querySelector('#map'), {
     zoom: 4,
